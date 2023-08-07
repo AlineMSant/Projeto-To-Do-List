@@ -9,6 +9,7 @@ Neste projeto, tive a oportunidade de conteinerizar uma aplicação de tarefas, 
 ```bash
 npm install
 ```
+Foi utilizada a extensão "Live Server" para rodar no navegador.
 
 ## Habilidades desenvolvidas:
 - Conteinerizar as aplicações, ou seja, criar imagens Docker para cada parte da aplicação.
